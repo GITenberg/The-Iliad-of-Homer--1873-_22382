@@ -1,0 +1,39 @@
+_repo: The-Iliad-of-Homer--1873-_22382
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Buckley, Theodore Alois
+    alias: Buckley, T. A. (Theodore Alois)
+    birthdate: 1825
+    deathdate: 1856
+    gutenberg_agent_id: '25301'
+    url: http://www.gutenberg.org/2009/agents/25301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2007-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trojan War'
+- !lcsh 'Achilles (Mythological character)'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+title: The Iliad of Homer (1873)
+url: http://www.gutenberg.org/ebooks/22382
