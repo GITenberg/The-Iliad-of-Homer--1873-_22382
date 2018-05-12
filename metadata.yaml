@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22382#The-Iliad-of-Homer--1873-
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2007-08-23'
 gutenberg_type: Text
